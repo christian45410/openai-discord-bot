@@ -58,4 +58,7 @@ python bot.py
 
 ## Interact with bot in Discord
 
-1. Tag the bots name
+1. Tag the bots name in discord
+```
+@MyBot hello! What time is it?
+```
