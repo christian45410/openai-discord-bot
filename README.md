@@ -1,6 +1,6 @@
 # OpenAI Discord Bot
 
-A Discord bot powered by OpenAI's GPT-3 language model API. The bot is designed to respond to user requests in the Discord chat by completing the prompt given by the user.
+A Discord bot powered by OpenAI's GPT-3 language model API. The bot is designed to respond to user requests in the Discord chat by completing the prompt given by the user. This will only work with the OpenAI free trial or paid account.
 
 ## Prerequisites
 - [Discord account](https://discord.com/register)
