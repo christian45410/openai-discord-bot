@@ -4,7 +4,7 @@ A Discord bot powered by OpenAI's GPT-3 language model API. The bot is designed 
 
 ## Prerequisites
 - [Discord account](https://discord.com/register)
-- [OpenAI API Key](https://beta.openai.com/signup/)
+- [OpenAI API Key](https://platform.openai.com/account/api-keys)
 - [Python 3.x](https://www.python.org/downloads/)
 
 ## Setup Discord application
